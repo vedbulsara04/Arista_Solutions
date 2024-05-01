@@ -5,8 +5,6 @@
 
 > [@jainam124](https://github.com/jainam124)
 
-> [@rajnandurkar](https://github.com/rajnandurkar)
-
 ---
 ## Project Abstract
 
@@ -31,11 +29,6 @@ This E-commerce web-app ` is an industry approved project ` from Arista Solution
   >- Github profile : [@jainam124](https://github.com/jainam124)
   >- LinkedIn : [Jainam Sheth](https://www.linkedin.com/in/shethjainam/)
   >- E-mail : jainamsheth124@gmail.com
-
-` Raj Nandurkar `
-  >- Github profile : [@rajnandurkar](https://github.com/rajnandurkar)
-  >- LinkedIn : [Raj Nandurkar](https://www.linkedin.com/in/raj-nandurkar-3546b9236/)
-  >- E-mail : rajnandurkar2020@gmail.com
 
 ---
 
